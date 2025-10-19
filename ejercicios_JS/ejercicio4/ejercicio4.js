@@ -11,4 +11,4 @@ else{
 }
 }
 
-console.log(validarImpar(13))
+console.log(validarImpar(7666))
