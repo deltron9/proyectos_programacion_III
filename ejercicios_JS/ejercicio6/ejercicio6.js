@@ -17,4 +17,6 @@ const apellidoMa = apellido.toUpperCase();
 console.log(`${nombreCom}, ${apellidoMa}`);
 
 }
+mostrarNombreApellido("crIstiAn", "CoLLAnTe")
+console.log("--------------------------------------------------------------------");
 mostrarNombreApellido(nombre, apellido)
