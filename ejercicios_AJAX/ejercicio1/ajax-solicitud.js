@@ -1,0 +1,2 @@
+const xmlHttp = XMLHttpRequest
+
